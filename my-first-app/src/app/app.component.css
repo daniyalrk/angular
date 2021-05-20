@@ -1,3 +1,9 @@
 h3 {
   color: blue;
+  font-weight: bold;
+}
+p {
+  color: brown;
+  font-weight: bold;
+  size: A3;
 }

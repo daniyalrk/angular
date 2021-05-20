@@ -6,7 +6,7 @@ import {FormsModule} from "@angular/forms";
 import {ServerComponent} from "./server/server.component";
 import { ServersComponent } from './servers/servers.component';
 import {WarningComponent} from "./warning/warning.component";
-import { AlertsComponent } from './alerts/alerts.component';
+import { AlertsComponent } from './success/success.component';
 
 
 @NgModule({
